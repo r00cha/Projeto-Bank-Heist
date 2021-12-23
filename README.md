@@ -1,11 +1,11 @@
-# Projeto XXXX
+# Projeto Bank-Heist
 ## FPRO/MIEIC, 2021/22
-## Fulano de Tal (up2021xxxxx)
-## 1MIEICXX
+## Miguel Rocha (up202108720)
+## 1LEIC07
 
 ### Objetivo
 
-1. Criar um clone do clássico Sokoban em Pygame...
+1. Criar um clone do clássico Bank Heist em Pygame...
 
 2. Em alternativa... do clássico x em Pygame.
 
@@ -26,9 +26,11 @@
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+*---Your goal is to rob as many Banks as possible before running out of
+Getaway Cars.  Disabling Cop Cars with dynamite increases your score
+and causes more banks to appear in the town.  Running into Cop Cars or
+accidentally dynamiting your own car will abruptly halt your little joy
+ride.---*
 
 ### UI
 
